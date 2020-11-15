@@ -21,7 +21,7 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 
 #
 
-<img align="left" alt="GIF" src="https://33.media.tumblr.com/94cd6938b68418c0c8a12ddf420bbaaa/tumblr_ndkchr04mO1tzhbqno1_400.gif" />
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/f1/0d/70/f10d7050ab001f364d247324c25659ff.gif" />
 
 
 **I execute the planning, facing frustrations as opportunities and successes as motivations to go further.. I understand where I can act before something is asked for.**
@@ -36,3 +36,4 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 <a href="https://twitter.com/invisizzzz" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/invisigoth59" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
+
