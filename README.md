@@ -25,4 +25,4 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 
 I execute the planning, facing frustrations as opportunities and successes as motivations to go further.. I understand where I can act before something is asked for.
 
-![Invisi Status](https://github-readme-stats.vercel.app/api?username=invisicb&show_icons=true&theme=bluewhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invisicb)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=invisicb)](https://github.com/anuraghazra/github-readme-stats)
