@@ -22,6 +22,7 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 
 #
 
+
 <img align="left" alt="GIF" src="https://thumbs.gfycat.com/BothPortlyColt-small.gif" />
 
 **I execute the planning, facing frustrations as opportunities and successes as motivations to go further.. I understand where I can act before something is asked for.**
