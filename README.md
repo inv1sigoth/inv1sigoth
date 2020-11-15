@@ -19,15 +19,16 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/invisigoth59)
 
-
 #
 
+<img align="left" alt="GIF" src="https://33.media.tumblr.com/94cd6938b68418c0c8a12ddf420bbaaa/tumblr_ndkchr04mO1tzhbqno1_400.gif" />
 
-<img align="left" alt="GIF" src="https://thumbs.gfycat.com/BothPortlyColt-small.gif" />
 
 **I execute the planning, facing frustrations as opportunities and successes as motivations to go further.. I understand where I can act before something is asked for.**
 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=invisicb)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
