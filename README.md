@@ -1,5 +1,3 @@
-
-
 #                                                                    INVISI - OE
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/28fb7bb6a0ac7a428e36149f79cb397a/tumblr_msqd69GHsF1sy0w00o1_500.gifv"/>
@@ -13,7 +11,7 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 - 🌎 From Yokohama - Japan
 - 🧪 Working for Casa Blanca
 
-[![Twitter Badge](https://img.shields.io/badge/-@invisizzzz-000001?style=flat-square&labelColor=000001&logo=twitter&logoColor=white=https://twitter.com/invisizzzz)](https://twitter.com/invisizzzz) 
+[![Twitter Badge](https://img.shields.io/badge/-@invisizzzz-000001?style=flat-square&labelColor=White&logo=twitter&logoColor=White=https://twitter.com/invisizzzz)](https://twitter.com/invisizzzz) 
 [![Youtube Badge](https://img.shields.io/badge/-Invisi%2040A71-000001?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCFPKix5PCAFJLypRA3WOwDA)](https://www.youtube.com/channel/UCFPKix5PCAFJLypRA3WOwDA) 
 [![Gmail Badge](https://img.shields.io/badge/-invisi40a71@gmail.com-000001?style=flat-square&logo=Gmail&logoColor=white&link=mailto:invisi40a71@gmail.com)](mailto:invisi40a71@gmail.com)
 
@@ -22,14 +20,31 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 
 #
 
-<img align="left" alt="GIF" src="https://data.whicdn.com/images/56792594/original.gif" />
-
+<img align="center" alt="GIF" src="https://data.whicdn.com/images/227901089/original.gif" />
 
 **I execute the planning, facing frustrations as opportunities and successes as motivations 		to go further.. I understand where I can act before something is asked for.**
 
+#
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inv1sigoth)](https://github.com/inv1sigoth/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=inv1sigoth&count_private=true&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inv1sigoth&layout=compact&theme=dark">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LewisTehMinerz&layout=compact&theme=dark">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark">
+  </a>
+</p>
+
+#
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -37,3 +52,4 @@ My name is Invisi, I'm from Japan 🎌 and I'm a programmer, that has been worki
 <a href="https://twitter.com/invisizzzz" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/invisigoth59" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
+
