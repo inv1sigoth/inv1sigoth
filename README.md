@@ -33,6 +33,7 @@ Add the best multifunctional bot to your server now! **Animals**, **Configuratio
 |Reaper          |`The most Ancap`               | Very serious                |
 |Dolly           |`The cutest of them all !!!`   | Very CUTEEEEEEE             |
 |Adventures      |`The E-Boy`                    | Very E-boy                  |
+|Lil FoFo        |`The E-Girl`                   | Very E-Girl                 | 
 
 #
 
