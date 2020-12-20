@@ -29,8 +29,9 @@ Add the best multifunctional bot to your server now! **Animals**, **Configuratio
 | Friends        | Portrait                      | What are                    |
 |----------------|-------------------------------|-----------------------------|
 |Command         |`The most beautiful`           | Very funny                  |
-|Yamashita       |`The Cutest`                 | Very cute                     |
+|Yamashita       |`The Cutest`                   | Very cute                   |
 |Reaper          |`The most Ancap`               | Very serious                |
+|Dolly           |`The cutest of them all !!!`   | Very CUTEEEEEEE             |
 
 #
 
