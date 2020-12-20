@@ -32,6 +32,7 @@ Add the best multifunctional bot to your server now! **Animals**, **Configuratio
 |Yamashita       |`The Cutest`                   | Very cute                   |
 |Reaper          |`The most Ancap`               | Very serious                |
 |Dolly           |`The cutest of them all !!!`   | Very CUTEEEEEEE             |
+|Adventures      |`The E-Boy`                    | Very E-boy                  |
 
 #
 
