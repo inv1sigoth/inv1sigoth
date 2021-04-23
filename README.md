@@ -1,22 +1,10 @@
-<h1 align="center">👋 Hi, I'm Invisi</h1>
+<h1 align="center">👋 Hi, I'm Lucy</h1>
 <h3 align="center">You've probably heard my name!</h3>
 
 I'm a variety developer that dabbles in multiple fields such as web, desktop (Windows), Discord, front, and back end development. Not that I'm good at a couple of those, mind you, but I try. My main fields are Discord, back end, and Windows desktop apps. I normally use TypeScript for the first two and C# for the last one, however I'm experimenting with other languages too.
 
-- 📫 How to reach me: Twitter ([@inv1sigoth](https://twitter.com/inv1sigoth)) or Discord (introvert#6666, [join my server](https://discord.gg/mEhUVCJ7rT) for that though)
-- 😄 Pronouns: he/him
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=inv1sigoth&count_private=true&show_icons=true&theme=gruvbox">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inv1sigoth&layout=compact&theme=gruvbox">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LewisTehMinerz&layout=compact&theme=gruvbox">
-  </a>
-</p>
+- 📫 How to reach me: Twitter ([@theLucyChan](https://twitter.com/theLucyChan)) or Discord (Lucy 🎀#0001, [join my server](https://discord.gg/zg5VRXCdUN) for that though)
+- 😄 Pronouns: She/Her
 
 ### Wakatime Stats
 
