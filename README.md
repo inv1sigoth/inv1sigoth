@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm Lucy</h1>
-<h3 align="center">You've probably heard my name!</h3>
+<h1 align="center">👋 Hi, I'm Lewdissar</h1>
+<h3 align="center">Nice to meet you!</h3>
 
 I'm a variety developer that dabbles in multiple fields such as web, desktop (Windows), Discord, front, and back end development. Not that I'm good at a couple of those, mind you, but I try. My main fields are Discord, back end, and Windows desktop apps. I normally use TypeScript for the first two and C# for the last one, however I'm experimenting with other languages too.
 
-- 📫 How to reach me: Twitter ([@theLucyChan](https://twitter.com/theLucyChan)) or Discord (Lucy 🎀#0001, [join my server](https://discord.gg/zg5VRXCdUN) for that though)
+- 📫 How to reach me: Twitter ([@Lewdissar](https://twitter.com/Lewdissar)) or Discord (Lewdissar#0001, [join my server](https://discord.gg/DCf4Sbwy) for that though)
 - 😄 Pronouns: She/Her
 
 ### Wakatime Stats
